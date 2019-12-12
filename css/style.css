@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css?family=Josefin+Sans|Sulphur+Point&display=swap");
+
+@import url("components/container.css");
+@import url("components/button.css");
+@import url("components/banner.css");
+@import url("components/card.css");
+@import url("components/menu.css");
+
+body{
+font-family: 'Sulphur Point', sans-serif;
+font-size: 18px;
+margin: 0
+}
+h1, h2, h3 {
+font-family:font-family: 'Josefin Sans', sans-serif;
+font-weight: bold;
+}
+
+a {
+	text-decoration: none;
+}
